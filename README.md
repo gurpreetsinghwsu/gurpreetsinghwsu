@@ -1,27 +1,150 @@
-# 💫 About Me:
-🚀 I’m currently working on<br>I'm immersed in several AI and machine learning projects, ranging from chatbot development using Hugging Face to text-to-image and text-to-video generation. My work spans applications in natural language processing, computer vision for trash classification, and cyber defense strategies against industrial ransomware threats.<br><br>🤝 I’m looking to collaborate on<br>I'm eager to connect with like-minded individuals or teams working on AI in digital forensics, cybersecurity innovations, or advanced NLP applications. I’m also interested in interdisciplinary research projects that intersect with nanotechnology, business, or IT.<br><br>🆘 I’m looking for help with<br>I’m seeking guidance on creating a language translator model using CNNs or RNNs without relying on APIs. I would also appreciate insights into defense-in-depth security strategies, particularly for industrial control systems.<br><br>🌱 I’m currently learning<br>I’m enhancing my expertise in AI frameworks and cybersecurity protocols, focusing on how these fields converge in industrial applications. I’m also exploring the application of AI in digital forensics and preparing for advanced study opportunities, scholarships.<br><br>💬 Ask me about<br>Feel free to ask me about my journey as an international AI student in South Korea, my experiences with the Woosong Cybersecurity Club, or my passion for building and implementing AI solutions in real-world applications.<br><br>⚡ Fun fact<br>I've traveled to Japan as part of a scholarship program and have taught students from around the world. My interdisciplinary background bridges technology with practical solutions, making me a resourceful innovator with a unique global perspective.
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/guruinkoreaofficial) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gurpreet-singh-a8b0a4208) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![CrateDB](https://img.shields.io/badge/CrateDB-009DC7?style=for-the-badge&logo=CrateDB&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gurpreetsinghwsu&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=gurpreetsinghwsu&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gurpreetsinghwsu&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=gurpreetsinghwsu&theme=shadow_green&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=gurpreetsinghwsu&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
+<h1 align="center">👋 Hi, I'm Gurpreet Singh</h1>
+<h3 align="center">Aspiring Researcher | Computer Vision & Cross-Modal AI | Future MIT/Harvard/Oxford Applicant</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=gurpreetsinghwsu&icon=0&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔬 About Me
+I’m Gurpreet Singh, a Computer Science & Engineering graduate from  
+**Endicott College of International Studies, Woosong University, Republic of Korea (2021–2025).**
+
+My long-term goal is to pursue a **fully-funded research position (MS/PhD)** in the areas of:
+
+- **Computer Vision**
+- **Cross-Modal & Visual-to-Audio Generation**
+- **Multimodal & Generative AI**
+
+I focus on building systems that connect **images ↔ audio**, enabling richer machine perception through innovative cross-modal pipelines.
+
+---
+
+## 🧠 Research Interests
+- Computer Vision (classification, detection, segmentation)  
+- Cross-Modal Learning (Visual-to-Audio, Vision-Language Models)  
+- Generative Models (Diffusion, GANs, VLMs)  
+- Weakly-supervised & representation learning  
+- Data programming and importance sampling  
+- Scene Graph → Audio Generation (current research)
+
+---
+
+## 📄 Publications
+
+### **Journal Publications**
+- **Gurpreet Singh, S Singh, N Rehmani, P Kumari, SV Varshini.**  
+  *The Role of Data Analytics in Driving Business Innovation and Economic Growth – A Comparative Study Across Industries.*  
+  International Journal of Innovative Research in Engineering and Management, 2024.  
+  **DOI:** https://doi.org/10.55524/ijirem.2024.11.4.5  
+
+- **Gurpreet Singh, Prof. Saurabh Singh.**  
+  *Assessing the Vulnerabilities and Impacts of Open SSH Ports on CENTOS 9 Virtual Machines Hosted on Mac ARM Computers (CVE-2023-25136).*  
+  Journal IDPR, 2024.  
+  **DOI:** https://idpr.org.uk/index.php/idpr/article/view/200  
+
+- **Gurpreet Singh, Prof. Preethi Ananthachari.**  
+  *Repercussion of ChatGPT in Cybersecurity.*  
+  International Journal of Research Publication and Reviews, 2022.  
+  **PDF:** https://ijrpr.com/uploads/V4ISSUE2/IJRPR10064.pdf
+
+---
+
+## 📝 Preprints
+- **Multiple Approaches for Drug-Drug Interaction Extraction using Machine Learning and Transformer Models**  
+  SSRN & bioRxiv  
+  **DOI:** https://dx.doi.org/10.2139/ssrn.5640432  
+
+- **A Review of Multimodal Vision-Language Models: Foundations, Applications, and Future Directions**  
+  arXiv / Preprints (MDPI)  
+  **DOI:** https://www.preprints.org/manuscript/202510.2511  
+
+- **Tracing the Evolution of Artificial Intelligence (1950–2025)**  
+  arXiv / Preprints (MDPI)  
+  **DOI:** https://doi.org/10.20944/preprints202511.0637.v1
+
+---
+
+## 🗂️ Datasets Released
+- **Synthetic Image Dataset of Five Object Classes (Stable Diffusion XL)**  
+  Zenodo, July 2025  
+  **DOI:** https://doi.org/10.5281/zenodo.16414387
+
+---
+
+## 🚧 Current Research Projects
+- **Visual-to-Audio Generation**  
+  Designing models that translate **images → sound**, using representation learning, scene graphs, and deep generative audio models.
+
+- **Scene Graph → Audio Generation (2025)**  
+  A novel, unexplored direction bridging spatial scene understanding and auditory synthesis.
+
+---
+
+## 🛠️ Skills
+
+### **Programming & ML**
+- **Python**, C, Bash  
+- PyTorch, scikit-learn, NumPy, pandas  
+- CNNs, diffusion, unsupervised learning  
+- Hyperparameter search, importance sampling  
+- Matplotlib, ggplot2  
+
+### **Tools & Frameworks**
+- Git, Docker, Vim, Mathematica  
+- LaTeX, HTML/CSS/JS, SQL  
+- ssh, code reviews, Agile workflows  
+
+### **Research & Academic Skills**
+- Paper writing & reviewing  
+- Poster presentation  
+- Dataset design and curation  
+- Mentoring and teaching  
+- Research ideation
+
+### **Languages**
+- **English:** TOEIC 915/990  
+- **Korean:** Fluent  
+- **Russian:** Basic  
+- **Japanese:** Basic  
+- **Malay Bahasa:** Basic
+
+---
+
+## 🏆 Honors & Activities
+- **Woosong Foundation Scholar (Top 30 Selected)**
+- **President – Woosong Cybersecurity Club**
+- **Project Developer – 3-Day Hackathon (Food Delivery Prototype for Daejeon)**
+- **Capstone Project with SeAH Steel Industries, Seoul**
+- **LINC 3.0 Participation Award**
+- **UCLG Certificate**
+- **Film Award – SIMA FEST (2nd Position)**
+- **Web Analytics Competition – 3rd Position**
+- Featured in **Korean News** (CBiz)  
+- Featured in **Russian News** (Tengrinews)
+
+---
+
+## 🧑‍💻 Internships
+### **Mentorness — NLP Intern**
+- Built ML/NLP algorithms for text processing  
+- Improved accuracy on multiple NLP tasks  
+- Delivered end-to-end projects remotely
+
+### **The Education Diary — AI Lecturer (Remote)**
+- Delivered lectures on **AI, ML, and Cybersecurity**  
+- Designed curriculum materials for students  
+- Collaborated with experts to ensure relevance
+
+---
+
+## 📫 Contact
+- **Email:** gurpreetsinghmcse@gmail.com  
+- **WhatsApp:** +82-1021840042  
+- **Phone:** +91-7459022161  
+- **Google Scholar:** https://scholar.google.com/citations?user=5OrupV0AAAAJ&hl=ko  
+
+---
+
+## 🌟 Vision
+I aim to develop cross-modal AI systems that enhance machine perception and create new ways for humans and computers to interact using **images, audio, and symbolic representations**.
+
+I am actively seeking **research collaborations, RA positions, and graduate research opportunities** in Computer Vision, Multimodal AI, and Generative Models.
+
